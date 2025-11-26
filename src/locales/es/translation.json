@@ -1,0 +1,1313 @@
+{
+  "nav": {
+    "about": "Acerca de mí",
+    "skills": "Competencias",
+    "experience": "Experiencia",
+    "services": "Servicios",
+    "projects": "Proyectos",
+    "contact": "Contacto",
+    "hireMe": "Colabora conmigo"
+  },
+  "hero": {
+    "badge": "Disponible para proyectos remotos y oportunidades de reubicación en todo el mundo",
+    "titleLine1": "Desarrolladora y consultora Salesforce",
+    "titleLine2": "con bases en sistemas y DevOps",
+    "subtitle": "Ayudo a los equipos a diseñar, crear y operar soluciones Salesforce y en la nube que sean seguras, escalables y auténticamente útiles para las personas que las utilizan.",
+    "ctaPrimary": "Reservar una llamada de descubrimiento",
+    "ctaSecondary": "Ver proyectos seleccionados",
+    "ctaCV": "Descargar mi CV",
+    "highlight1": {
+      "label": "Enfoque Salesforce",
+      "value": "Administración · Desarrollo · Automatización"
+    },
+    "highlight2": {
+      "label": "Trayectoria",
+      "value": "Ex‑administradora de sistemas y redes"
+    },
+    "highlight3": {
+      "label": "Idiomas",
+      "value": "FR · EN · ES · IT (básico)"
+    },
+    "avatarSubtitle": "Tu socia de confianza en Salesforce e IT"
+  },
+  "about": {
+    "eyebrow": "Perfil",
+    "title": "De sistemas y redes al desarrollo de Salesforce",
+    "subtitle": "Un perfil técnico con una sólida experiencia en infraestructura IT, ahora totalmente orientado al desarrollo y consultoría de Salesforce y cloud.",
+    "paragraph1": "Comencé mi carrera en el área de infraestructura como Administradora Junior de Sistemas y Redes. Ofrecía soporte a usuarios, gestionaba entornos Windows, supervisaba redes y atendía incidentes de seguridad. Esta experiencia me enseñó cómo funcionan los sistemas en el mundo real, cómo colaboran los equipos bajo presión y por qué son esenciales unos cimientos sólidos.",
+    "paragraph2": "Hoy me especializo en el desarrollo y la administración de Salesforce. Tras completar el recorrido de Desarrolladora Salesforce en OpenClassrooms y trabajar con Apex, Flows y CI/CD usando Salesforce CLI, ayudo a las organizaciones a automatizar procesos, mejorar la calidad de los datos y construir soluciones seguras y mantenibles.",
+    "paragraph3": "Me desempeño mejor en entornos donde se valoran la autonomía, la transparencia y el aprendizaje continuo. Mi objetivo para 2025 es operar como freelance internacional, colaborando con equipos distribuidos y clientes en Europa, Chipre y la región de Asia‑Pacífico.",
+    "quickFactsTitle": "Datos rápidos",
+    "factLocation": {
+      "label": "Con base en:",
+      "value": "París / Marsella, abierta a la reubicación y al trabajo remoto"
+    },
+    "factLanguages": {
+      "label": "Idiomas:",
+      "value": "Francés (nativo), inglés (C2), español (B1), italiano (A2)"
+    },
+    "factRoles": {
+      "label": "Roles objetivo:",
+      "value": "Desarrolladora Salesforce, Administradora Salesforce, Consultora Salesforce / IT"
+    },
+    "factAvailability": {
+      "label": "Disponibilidad:",
+      "value": "Misiones freelance · medio tiempo o tiempo completo · remoto primero"
+    },
+    "factTimeline": {
+      "label": "Objetivo:",
+      "value": "A partir de principios de 2026, desarrollar progresivamente una actividad freelance internacional como desarrolladora Salesforce, mientras sigo reforzando mi experiencia técnica y funcional en LD Digitales."
+    }
+  },
+  "skills": {
+    "eyebrow": "Competencias",
+    "title": "Conjunto de habilidades Salesforce y técnicas",
+    "subtitle": "Una mezcla de desarrollo y administración de Salesforce, infraestructura y prácticas DevOps.",
+    "salesforceTitle": "Desarrollo y administración Salesforce",
+    "salesforceList": [
+      "Apex (triggers, clases, jobs batch)",
+      "Flow Builder y buenas prácticas de automatización",
+      "Lightning App Builder y Lightning Web Components",
+      "Modelado de datos y seguridad (tipos de registro, roles, perfiles, conjuntos de permisos)",
+      "Despliegues con Change Sets y Salesforce CLI"
+    ],
+    "devTitle": "Programación y plataformas",
+    "devList": [
+      "Bases de Java y JavaScript / TypeScript",
+      "Conceptos de API REST / SOAP",
+      "Pruebas unitarias y aserciones",
+      "Flujos de trabajo con Git y GitHub",
+      "Desarrollo orientado a CLI con VS Code"
+    ],
+    "cloudTitle": "Sistemas, DevOps y seguridad",
+    "cloudList": [
+      "Administración de Windows y Linux",
+      "Fundamentos de redes y monitorización",
+      "Pipelines CI/CD con Salesforce CLI y GitHub Actions",
+      "Prácticas de respaldo y recuperación",
+      "Mentalidad de seguridad (ransomware, control de acceso)"
+    ],
+    "softTitle": "Habilidades blandas y formas de trabajo",
+    "softList": [
+      "Documentación técnica clara",
+      "Comunicación activa con interlocutores no técnicos",
+      "Colaboración remota a través de zonas horarias",
+      "Aprendizaje rápido y estructurado",
+      "Enfoque centrado en el usuario para los requisitos"
+    ]
+  },
+  "experience": {
+    "eyebrow": "Experiencia",
+    "title": "Experiencia profesional",
+    "subtitle": "Roles seleccionados que han moldeado mi manera de diseñar, construir y mantener sistemas.",
+    "items": [
+      {
+        "company": "LD Digitales – Remote",
+        "role": "Desarrolladora Salesforce (alternancia y luego contrato indefinido)",
+        "period": "Oct 2023 – Actualidad",
+        "location": "Remoto · Contexto internacional",
+        "bullets": [
+          "Desarrollé y mantuve más de 10 clases Apex y jobs batch para automatizar el procesamiento y reporte de datos.",
+          "Creé más de 20 Flows para orquestar procesos de negocio, reduciendo el trabajo manual aproximadamente en un 30 %. ",
+          "Diseñé componentes reutilizables con Lightning App Builder y Lightning Web Components.",
+          "Implementé prácticas CI/CD usando Salesforce CLI y Git, agilizando los despliegues entre entornos.",
+          "Apoyé actividades de migración de datos con CSV y asistentes de importación, garantizando la calidad y la integridad de la información.",
+          "Desde octubre de 2025, paso a contrato indefinido con mayor responsabilidad en el diseño de soluciones, la calidad del código y el acompañamiento de los equipos de negocio."
+        ]
+      },
+      {
+        "company": "Midrange Group – Francia",
+        "role": "Administradora junior de sistemas y redes (prácticas)",
+        "period": "Feb 2023 – May 2023",
+        "location": "Francia · Presencial",
+        "bullets": [
+          "Proporcioné soporte técnico a más de 50 equipos de escritorio y portátiles en varias oficinas.",
+          "Instalé y mantuve software utilizando herramientas como Blanco, Acronis y Datto RMM.",
+          "Supervisé la infraestructura de red y respondí a incidentes de seguridad, incluidos simulacros de ransomware.",
+          "Documenté procedimientos y contribuí a artículos de la base de conocimientos para incidencias recurrentes."
+        ]
+      }
+    ]
+  },
+  "services": {
+    "eyebrow": "Servicios",
+    "title": "Lo que ofrezco",
+    "subtitle": "Servicios a medida para proyectos Salesforce e IT.",
+    "items": [
+      {
+        "title": "Auditoría y consultoría Salesforce",
+        "description": "Analizar los procesos existentes, revisar la configuración de la org, identificar oportunidades de automatización y formular recomendaciones concretas.",
+        "bullets": [
+          "Evaluación de la org y diagnóstico",
+          "Optimización de procesos y workflows",
+          "Revisión de seguridad y cumplimiento"
+        ]
+      },
+      {
+        "title": "Desarrollo y administración",
+        "description": "Diseñar objetos personalizados, automatizar la lógica empresarial con Flows y Apex, configurar la seguridad y gestionar los entornos desde la sandbox hasta la producción.",
+        "bullets": [
+          "Diseño del modelo de datos",
+          "Automatización con Flows y Apex",
+          "Gestión de entornos y seguridad"
+        ]
+      },
+      {
+        "title": "Integraciones y APIs",
+        "description": "Conectar Salesforce con sistemas externos mediante REST/SOAP, configurar procesos ETL y garantizar la coherencia de los datos.",
+        "bullets": [
+          "Integración REST / SOAP",
+          "Configuración ETL y sincronización",
+          "Seguimiento y gestión de errores"
+        ]
+      },
+      {
+        "title": "Formación y soporte",
+        "description": "Formar a usuarios y administradores con sesiones prácticas, crear documentación clara y proporcionar soporte continuo.",
+        "bullets": [
+          "Formación de usuarios y administradores",
+          "Documentación y buenas prácticas",
+          "Asistencia post‑despliegue"
+        ]
+      },
+      {
+        "title": "Consultoría IT y DevOps",
+        "description": "Evaluar arquitecturas cloud, implementar pipelines CI/CD, aplicar buenas prácticas DevOps y reforzar la seguridad y monitorización de sistemas.",
+        "bullets": [
+          "Análisis de arquitecturas cloud",
+          "Configuración de pipelines CI/CD",
+          "Recomendaciones de seguridad y monitorización"
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "eyebrow": "Proyectos",
+    "title": "Proyectos y estudios de caso",
+    "subtitle": "Algunos ejemplos del trabajo que he realizado o prototipado.",
+    "items": [
+      {
+        "name": "Automatización de operaciones comerciales",
+        "slug": "sales-operations-automation",
+        "context": "Proyecto de prácticas – agencia digital de tamaño medio que utiliza Salesforce Sales Cloud.",
+        "role": "Diseño e implementación de Flows y Apex para automatizar la calificación de leads y el traspaso a oportunidades.",
+        "impact": "Reducción aproximada del 30 % de la entrada manual de datos para los comerciales y mejora de la consistencia de los datos.",
+        "tags": [
+          "Sales Cloud",
+          "Flows",
+          "Apex",
+          "Calidad de datos"
+        ]
+      },
+      {
+        "name": "Configuración de un pipeline CI/CD",
+        "slug": "ci-cd-pipeline-setup",
+        "context": "Proyecto personal – creación de un pipeline de despliegue para un entorno con múltiples sandboxes.",
+        "role": "Configuré Salesforce CLI, escribí scripts de despliegue e integré GitHub Actions para la integración continua.",
+        "impact": "Liberaciones más fluidas, reducción de errores de despliegue y mejora de la capacidad de rollback.",
+        "tags": [
+          "CI/CD",
+          "Salesforce CLI",
+          "GitHub",
+          "Automatización"
+        ]
+      },
+      {
+        "name": "Endurecimiento y monitorización de sistemas",
+        "slug": "system-hardening-monitoring",
+        "context": "Prácticas profesionales – optimización de la infraestructura IT para una organización multisede.",
+        "role": "Instalé herramientas de monitorización, gestioné backups y participé en la respuesta a incidentes de seguridad.",
+        "impact": "Mejora de la resiliencia del sistema y reducción del tiempo medio de resolución de incidentes.",
+        "tags": [
+          "Redes",
+          "Seguridad",
+          "Monitorización",
+          "Backups"
+        ]
+      },
+      {
+        "name": "Backend Apex para iDEM Connect",
+        "slug": "backend-apex-idemconnect",
+        "context": "Proyecto corporativo – desarrollo de un backend para gestionar las suscripciones de clientes de un ISP global.",
+        "role": "Diseñé e implementé disparadores, clases y procesos por lotes Apex según las mejores prácticas, y proporcioné documentación y pruebas.",
+        "impact": "Se entregó un backend sólido que mejoró la gestión de suscripciones y garantizó una alta cobertura de pruebas y mantenibilidad.",
+        "tags": [
+          "Apex",
+          "Lotes",
+          "Disparadores",
+          "Salesforce",
+          "Backend"
+        ]
+      },
+      {
+        "name": "Despliegue de la aplicación Salesforce para Legarant‑AXG",
+        "slug": "deploy-salesforce-legarant-axg",
+        "context": "La aseguradora Legarant, tras adquirir AXG, necesitaba migrar los datos CRM de AXG a su organización Salesforce y desplegar una aplicación móvil para los agentes.",
+        "role": "Como desarrolladora sénior, configuré entornos Heroku (staging y producción) con Postgres, Heroku Connect y supervisión; desarrollé un servidor Node.js y una interfaz web en Heroku para exponer APIs REST a la aplicación móvil; creé una Connected App y permisos en Salesforce; implementé servicios Apex REST y una colección Postman con OAuth 2.0; documenté las variables de entorno, los pasos de despliegue y las acciones manuales; y dirigí el pipeline de despliegue desde la sandbox hasta producción.",
+        "impact": "La solución sincronizó los datos de AXG con Salesforce mediante Heroku Connect y permitió una aplicación móvil para agentes. La documentación detallada y las pruebas automatizadas facilitaron el despliegue y la adopción eficiente.",
+        "tags": [
+          "Integración",
+          "Heroku",
+          "Node.js",
+          "Connected App",
+          "API REST",
+          "Aplicación móvil"
+        ]
+      },
+      {
+        "name": "Solución Salesforce para Tours For Life",
+        "slug": "salesforce-solution-tours-for-life",
+        "context": "Proyecto de consultoría – la agencia de viajes Tours For Life implementa Salesforce para gestionar leads, viajeros y viajes.",
+        "role": "Recopilé requisitos, configuré objetos personalizados, creé flujos, paneles e informes y formé a los usuarios.",
+        "impact": "Mejoró la conversión de leads y la gestión de viajes, aumentando las ventas y la visibilidad de los datos.",
+        "tags": [
+          "Sales Cloud",
+          "Objetos personalizados",
+          "Flujos",
+          "Tableros",
+          "Informes"
+        ]
+      },
+      {
+        "name": "Actualización de la aplicación Digit Learning",
+        "slug": "digit-learning-app-update",
+        "context": "Auditoría CRM – la escuela en línea Digit Learning necesitaba automatizar y mejorar su aplicación Salesforce existente.",
+        "role": "Audité la org, propuse mejoras e implementé flujos, reglas de validación y automatizaciones para optimizar procesos y garantizar la coherencia de los datos.",
+        "impact": "La aplicación modernizada mejoró la satisfacción de los usuarios, redujo el trabajo manual y aumentó la precisión de los datos.",
+        "tags": [
+          "Auditoría",
+          "Automatización",
+          "Flujos",
+          "Educación",
+          "Salesforce"
+        ]
+      },
+      {
+        "name": "Optimización del backend para FASHA",
+        "slug": "backend-optimisation-fasha",
+        "context": "Proyecto de rendimiento – el distribuidor de ropa FASHA sufría procesos por lotes lentos y código desorganizado.",
+        "role": "Analicé el backend Apex existente, reorganizé y renomé las clases y optimicé los procesos por lotes para mejorar el rendimiento.",
+        "impact": "Se aceleraron los procesos, la aplicación dejó de bloquearse y el código pasó a ser más mantenible.",
+        "tags": [
+          "Apex",
+          "Optimización",
+          "Refactorización",
+          "Lotes",
+          "Rendimiento"
+        ]
+      },
+      {
+        "name": "Aplicación Lightning para Avenir Télécom",
+        "slug": "lightning-app-avenir-telecom",
+        "context": "Desarrollo Lightning – el operador Avenir Télécom necesitaba una nueva aplicación para su región sur.",
+        "role": "Recopilé las exigencias, diseñé y desarrollé una aplicación Lightning con páginas de registro, formularios dinámicos y flujos, y proporcioné formación a los usuarios.",
+        "impact": "La aplicación modernizó el CRM, mejoró la productividad de los comerciales y cumplió los nuevos requisitos de negocio.",
+        "tags": [
+          "Lightning",
+          "Sales Cloud",
+          "Diseño de UI",
+          "Personalización",
+          "Desarrollo de aplicaciones"
+        ]
+      },
+      {
+        "name": "Migración de Visualforce a Lightning",
+        "slug": "visualforce-to-lightning-migration",
+        "context": "Proyecto de consultoría – EG Manufacture necesitaba modernizar una aplicación Visualforce.",
+        "role": "Lideré la migración de una solución Visualforce clásica a Lightning, rediseñé páginas y construí componentes modernos.",
+        "impact": "Entregué una experiencia Lightning elegante que aumentó la productividad, la adopción y la mantenibilidad.",
+        "tags": [
+          "Visualforce",
+          "Experiencia Lightning",
+          "Migración",
+          "Componentes UI"
+        ]
+      },
+      {
+        "name": "Interfaz de la aplicación Poch’Lib",
+        "slug": "pochlib-library-app-ui",
+        "context": "Proyecto de front‑end – Great’App desarrolló una SPA de gestión de biblioteca responsive.",
+        "role": "Diseñé e implementé la interfaz con diseños responsivos y funciones para buscar, añadir, mostrar y eliminar libros.",
+        "impact": "Lancé una aplicación de biblioteca intuitiva y multidispositivo que simplificó la gestión del inventario y mejoró la experiencia de usuario.",
+        "tags": [
+          "JavaScript",
+          "SPA",
+          "Diseño responsive",
+          "UI/UX"
+        ]
+      },
+      {
+        "name": "Prototipo de backend Apex para LTP",
+        "slug": "apex-backend-prototype-ltp",
+        "context": "Prototipo de I+D – el grupo de lujo LTP necesitaba gestionar entregas y ventas multirregionales.",
+        "role": "Diseñé un modelo de datos escalable y escribí clases Apex para gestionar pedidos, transportistas y flujos de envío.",
+        "impact": "El prototipo demostró la viabilidad de la arquitectura y sirvió de base para el desarrollo completo de la aplicación.",
+        "tags": [
+          "Apex",
+          "Prototipo",
+          "Gestión de pedidos",
+          "Integración de envíos"
+        ]
+      },
+      {
+        "name": "Depuración Java de HemeBiotech",
+        "slug": "hemibiotech-java-debugging",
+        "context": "Proyecto de prácticas – la farmacéutica Heme Biotech necesitaba corregir un programa de recuento de síntomas.",
+        "role": "Depuré una aplicación Java para contar correctamente los síntomas y refactoricé el código.",
+        "impact": "El programa corregido ofrece análisis fiables y un código más mantenible.",
+        "tags": [
+          "Java",
+          "Depuración",
+          "Análisis de datos",
+          "Refactorización"
+        ]
+      },
+      {
+        "name": "Pruebas de nueva funcionalidad Java para Parkit",
+        "slug": "parkit-java-feature-testing",
+        "context": "Proyecto de desarrollo – la aplicación de pago de estacionamiento requería una nueva funcionalidad y pruebas exhaustivas.",
+        "role": "Implementé la funcionalidad siguiendo el desarrollo guiado por pruebas, escribí pruebas unitarias e integradas y utilicé JaCoCo y Surefire para medir la cobertura.",
+        "impact": "El alto nivel de cobertura mejoró la fiabilidad del código y estableció una cultura de pruebas.",
+        "tags": [
+          "Java",
+          "TDD",
+          "Pruebas unitarias",
+          "Pruebas de integración"
+        ]
+      }
+    ],
+    "dossiers": {
+      "title": "Dossiers profesionales",
+      "subtitle": "Descargar documentos profesionales e informes detallados.",
+      "items": []
+    },
+    "badges": {
+      "client": "Contexto cliente",
+      "formation": "Proyecto de formación",
+      "perso": "Proyecto personal"
+    }
+  },
+  "projectPage": {
+    "contextChallengesTitle": "Contexto y desafíos",
+    "methodologyTitle": "Metodología",
+    "resultsImpactTitle": "Resultados e impacto",
+    "juryTitle": "Comentarios del jurado",
+    "skillsTitle": "Competencias",
+    "resourcesTitle": "Enlaces y recursos",
+    "problemsLabel": "Problemas principales",
+    "objectivesLabel": "Objetivos"
+  },
+  "certifications": {
+    "eyebrow": "Certificaciones y formación",
+    "title": "Aprendizajes y reconocimientos",
+    "subtitle": "Diplomas, certificaciones y objetivos.",
+    "items": [
+      {
+        "name": "Diploma de Desarrolladora Salesforce",
+        "provider": "OpenClassrooms",
+        "date": "Oct 2023 – Oct 2025",
+        "status": "Completado"
+      },
+      {
+        "name": "Diploma profesional en Sistemas y Redes",
+        "provider": "GRETA du Val d’Oise",
+        "date": "Oct 2022 – Jun 2023",
+        "status": "Completado"
+      },
+      {
+        "name": "Trailhead Ranger",
+        "provider": "Salesforce Trailhead",
+        "date": "—",
+        "status": "Activo"
+      },
+      {
+        "name": "Certificado LinguaSkill C2",
+        "provider": "Cambridge University",
+        "date": "—",
+        "status": "Completado"
+      },
+      {
+        "name": "Administrador Salesforce",
+        "provider": "Salesforce",
+        "date": "para el 31 de diciembre de 2025",
+        "status": "Planificado"
+      },
+      {
+        "name": "App Builder Salesforce",
+        "provider": "Salesforce",
+        "date": "para el 31 de diciembre de 2025",
+        "status": "Planificado"
+      },
+      {
+        "name": "Platform Developer I Salesforce",
+        "provider": "Salesforce",
+        "date": "para el 31 de diciembre de 2025",
+        "status": "Planificado"
+      },
+      {
+        "name": "ISC2 CC (Certified in Cybersecurity)",
+        "provider": "ISC2",
+        "date": "para el 31 de diciembre de 2025",
+        "status": "Planificado"
+      }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "Testimonios",
+    "title": "Lo que dicen de mí",
+    "subtitle": "Opiniones de colegas, mentores y clientes.",
+    "items": [
+      {
+        "name": "Tutor de prácticas – Midrange Group",
+        "role": "Administrador de sistemas y redes",
+        "quote": "Swann se adaptó rápidamente a un entorno técnico complejo y se ganó la confianza del equipo por su fiabilidad y rigor."
+      },
+      {
+        "name": "Formador Salesforce",
+        "role": "Centro de formación",
+        "quote": "Hace las preguntas adecuadas, profundiza en los temas y convierte la teoría en soluciones concretas en Salesforce muy rápidamente."
+      },
+      {
+        "name": "Compañero desarrollador",
+        "role": "LD Digitales",
+        "quote": "Es una persona en la que se puede confiar: organizada, autónoma y siempre dispuesta a apoyar al resto del equipo de desarrollo."
+      },
+      {
+        "name": "Mentor técnico",
+        "role": "Acompañamiento profesional",
+        "quote": "Swann tiene una gran capacidad para estructurar los problemas y proponer soluciones limpias, mantenibles y bien documentadas."
+      },
+      {
+        "name": "Miembro del jurado",
+        "role": "Defensa de proyecto",
+        "quote": "Su presentación fue clara, estructurada y orientada a resultados, con un buen dominio de los aspectos de negocio y técnicos."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contacto",
+    "title": "Pongámonos en contacto",
+    "subtitle": "¿Interesado en trabajar juntos? Envíame un mensaje y responderé lo antes posible.",
+    "form": {
+      "name": "Nombre",
+      "email": "Email",
+      "company": "Empresa",
+      "topic": "Tema",
+      "topicOptions": {
+        "sfDev": "Desarrollo Salesforce",
+        "sfAdmin": "Administración Salesforce",
+        "consulting": "Consultoría / auditoría",
+        "mentoring": "Mentoría / formación",
+        "other": "Otro"
+      },
+      "message": "Mensaje",
+      "helper": "Responderé en un plazo de 24 horas.",
+      "submit": "Enviar mensaje"
+    },
+    "sidebar": {
+      "preferred": "Métodos de contacto preferidos",
+      "preferredText": "Si lo prefieres, puedes contactarme por email o LinkedIn.",
+      "freelanceTitle": "Disponibilidad",
+      "freelanceText": "Disponible para misiones freelance de medio tiempo o tiempo completo en Europa, Chipre y la región de Asia‑Pacífico."
+    },
+    "success": "¡Gracias! Tu mensaje ha sido enviado con éxito.",
+    "error": "¡Vaya! Algo salió mal. Por favor, inténtalo de nuevo más tarde."
+  },
+  "footer": {
+    "text": "Todos los derechos reservados.",
+    "terms": "Términos de uso",
+    "privacy": "Política de privacidad",
+    "developedBy": "Construido con ❤️ por SWANN"
+  },
+  "projectDetails": {
+    "sales-operations-automation": {
+      "title": "Sales Operations Automation",
+      "category": "Salesforce – Internship project",
+      "summary": "Automated lead qualification and opportunity creation for a mid‑size digital agency using Flows and Apex, reducing manual work and improving data quality.",
+      "badges": [
+        "Sales Cloud",
+        "Internship",
+        "Mid‑size agency",
+        "Automation"
+      ],
+      "metrics": {
+        "manualWorkReduction": "30%",
+        "dataQuality": "Improved"
+      },
+      "problems": [
+        "Manual lead qualification caused delays and data inconsistencies.",
+        "Sales reps spent excessive time converting qualified leads into opportunities."
+      ],
+      "objectives": [
+        "Design and implement Flows to automate qualification and hand‑off of leads.",
+        "Reduce manual data entry while maintaining data quality.",
+        "Accelerate the sales process by automating opportunity creation."
+      ],
+      "methodology": [
+        "Conducted a process audit to identify pain points and bottlenecks.",
+        "Designed a Flow to qualify leads based on criteria and assign owners.",
+        "Developed Apex triggers to automatically convert qualified leads into opportunities.",
+        "Created unit tests to ensure reliability and prevent regressions.",
+        "Deployed changes across sandboxes with version control and documented the solution."
+      ],
+      "results": [
+        "Reduced manual lead qualification and data entry by approximately 30%.",
+        "Improved data consistency and reduced errors during lead conversion.",
+        "Accelerated the lead‑to‑opportunity handoff, enabling sales reps to focus on selling."
+      ],
+      "jury": [],
+      "skills": [
+        "Sales Cloud",
+        "Flows",
+        "Apex",
+        "Data Quality",
+        "Unit Testing"
+      ],
+      "resources": []
+    },
+    "ci-cd-pipeline-setup": {
+      "title": "CI/CD Pipeline Setup",
+      "category": "DevOps – Personal project",
+      "summary": "Built a CI/CD pipeline for a multi‑sandbox Salesforce environment using Salesforce CLI and GitHub Actions to automate deployments and improve release reliability.",
+      "badges": [
+        "CI/CD",
+        "Salesforce CLI",
+        "GitHub Actions",
+        "Automation"
+      ],
+      "metrics": {
+        "deploymentTime": "-50%",
+        "errors": "Reduced"
+      },
+      "problems": [
+        "Manual deployments led to errors and delays.",
+        "No version control or repeatable deployment process existed."
+      ],
+      "objectives": [
+        "Automate deployments across sandboxes to ensure consistent releases.",
+        "Implement version control and continuous integration workflows.",
+        "Reduce deployment time and risk of human error."
+      ],
+      "methodology": [
+        "Installed and configured Salesforce CLI on development machines.",
+        "Wrote scripts to retrieve, convert and deploy metadata.",
+        "Set up a GitHub repository to manage source control.",
+        "Configured GitHub Actions to trigger builds and deployments on pull requests and merges.",
+        "Integrated test runs and validations into the pipeline.",
+        "Documented the pipeline setup for future contributors."
+      ],
+      "results": [
+        "Streamlined releases with automated deployments.",
+        "Reduced deployment time by approximately 50%.",
+        "Improved traceability and the ability to roll back changes."
+      ],
+      "jury": [],
+      "skills": [
+        "CI/CD",
+        "Git",
+        "Salesforce CLI",
+        "GitHub Actions",
+        "Automation"
+      ],
+      "resources": []
+    },
+    "system-hardening-monitoring": {
+      "title": "System Hardening & Monitoring",
+      "category": "IT Infrastructure – Internship",
+      "summary": "Optimised the resilience and security of IT systems for a multi‑site organisation by deploying monitoring tools, implementing backups and participating in incident response.",
+      "badges": [
+        "Networking",
+        "Security",
+        "Monitoring",
+        "Backups"
+      ],
+      "metrics": {
+        "downtime": "Reduced",
+        "MTTR": "-40%"
+      },
+      "problems": [
+        "Unmonitored servers led to undetected failures.",
+        "Lack of automated backups and incident response procedures."
+      ],
+      "objectives": [
+        "Deploy monitoring solutions to detect issues early.",
+        "Implement backup and restore processes.",
+        "Establish incident response workflows."
+      ],
+      "methodology": [
+        "Audited existing infrastructure and identified critical systems.",
+        "Deployed monitoring tools (e.g., Nagios, Zabbix) and configured alerts.",
+        "Set up automated backup routines and verified restore procedures.",
+        "Participated in security drills and incident simulations.",
+        "Documented procedures and trained staff on monitoring and backup practices."
+      ],
+      "results": [
+        "Improved system resilience and uptime.",
+        "Reduced mean time to resolution by around 40%.",
+        "Provided a framework for ongoing monitoring and incident response."
+      ],
+      "jury": [],
+      "skills": [
+        "Networking",
+        "Security",
+        "Monitoring",
+        "Backups",
+        "Incident Response"
+      ],
+      "resources": []
+    },
+    "backend-apex-idemconnect": {
+      "title": "Apex Backend for iDEM Connect",
+      "category": "Salesforce – Global ISP project",
+      "summary": "Developed an Apex backend to manage contracts, orders and account status for iDEM Connect, enforcing business rules and scheduling follow‑up tasks.",
+      "badges": [
+        "Triggers",
+        "Batch & Scheduler",
+        "Apex",
+        "Data Integrity"
+      ],
+      "metrics": {
+        "testCoverage": "90%",
+        "businessRules": "Enforced"
+      },
+      "problems": [
+        "Orders could be activated without associated line items.",
+        "Account active status was not automatically updated when orders were created or deleted.",
+        "There was no automated follow‑up for customers without recent orders."
+      ],
+      "objectives": [
+        "Write triggers to enforce that orders cannot be activated without line items.",
+        "Automatically set Account.Active__c based on order activity.",
+        "Schedule a batch to create follow‑up call tasks for accounts without orders.",
+        "Achieve high test coverage and maintainable code."
+      ],
+      "methodology": [
+        "Analysed business rules and current implementation.",
+        "Developed triggers and handler classes for order and account logic.",
+        "Created a scheduler and batch class to generate call tasks.",
+        "Refactored code into services and utilities for maintainability.",
+        "Wrote comprehensive unit tests achieving 90% coverage and documented the solution."
+      ],
+      "results": [
+        "Ensured data integrity by preventing invalid order activations.",
+        "Automated account status management.",
+        "Proactively generated follow‑up tasks, improving customer engagement.",
+        "Delivered maintainable, well‑documented code with high test coverage."
+      ],
+      "jury": [],
+      "skills": [
+        "Apex",
+        "Triggers",
+        "Batch",
+        "Scheduler",
+        "Test Coverage"
+      ],
+      "resources": []
+    },
+    "deploy-salesforce-legarant-axg": {
+      "title": "Deploy Salesforce Application for Legarant‑AXG",
+      "category": "Mission client Legarant‑AXG",
+      "summary": "Integration of AXG data into Legarant’s Salesforce and deployment of a mobile application using Heroku and REST services.",
+      "badges": [
+        "Life insurance",
+        "Employees: N/A",
+        "Germany • France",
+        "Budget: N/A"
+      ],
+      "metrics": {
+        "dataIntegration": "Completed",
+        "mobileApp": "Deployed",
+        "herokuSetup": "Configured",
+        "documentation": "Delivered"
+      },
+      "problems": [
+        "Separate CRM systems after the acquisition required data migration.",
+        "Field agents needed a mobile application to access the CRM."
+      ],
+      "objectives": [
+        "Migrate AXG CRM data to Legarant’s Salesforce.",
+        "Deploy a REST API and mobile app for agents.",
+        "Configure Heroku staging and production environments.",
+        "Document deployment steps and configuration changes."
+      ],
+      "methodology": [
+        {
+          "step": "Step 1",
+          "title": "Analyse & plan",
+          "description": "Identify data to migrate and define the integration strategy."
+        },
+        {
+          "step": "Step 2",
+          "title": "Configure Heroku",
+          "description": "Set up staging and production apps with Postgres, Heroku Connect and monitoring add‑ons."
+        },
+        {
+          "step": "Step 3",
+          "title": "Develop Node.js backend",
+          "description": "Build the server and web interface exposing custom REST endpoints for the mobile app."
+        },
+        {
+          "step": "Step 4",
+          "title": "Create Salesforce components",
+          "description": "Create Connected Apps, permission sets, matching and duplicate rules and custom external‑ID fields."
+        },
+        {
+          "step": "Step 5",
+          "title": "Implement & test APIs",
+          "description": "Implement Apex REST services and build a Postman collection with OAuth 2.0 flows and tests."
+        },
+        {
+          "step": "Step 6",
+          "title": "Document & deploy",
+          "description": "Document environment variables, deployment steps and manage the pipeline to production."
+        }
+      ],
+      "results": [
+        "Centralised AXG and Legarant CRM data in one org.",
+        "Deployed a mobile application for field agents.",
+        "Heroku environments configured with Postgres, Connect and logging add‑ons.",
+        "Comprehensive deployment and change documentation provided."
+      ],
+      "jury": [],
+      "skills": [
+        "Integration",
+        "Heroku",
+        "Node.js",
+        "Connected App",
+        "REST API",
+        "Mobile application",
+        "Data migration"
+      ],
+      "resources": [
+        {
+          "title": "Heroku & deployment docs",
+          "description": "PDFs detailing Heroku configurations and the deployment procedure.",
+          "link": "#"
+        },
+        {
+          "title": "Postman collections",
+          "description": "Postman collections and environments for testing the REST APIs.",
+          "link": "#"
+        }
+      ]
+    },
+    "salesforce-solution-tours-for-life": {
+      "title": "Salesforce Solution for Tours For Life",
+      "category": "Salesforce – Travel industry solution",
+      "summary": "Designed and implemented a custom Salesforce CRM for Tours For Life to manage prospects, travellers, trips and a fleet of buses using custom objects, Person Accounts and automated flows.",
+      "badges": [
+        "Travel",
+        "Custom Objects",
+        "Person Accounts",
+        "Automation"
+      ],
+      "metrics": {
+        "revenueGoal": "€500k (target)",
+        "prospectsConverted": "Improved",
+        "processAutomation": "Enabled",
+        "fleetManagement": "Integrated"
+      },
+      "problems": [
+        "Manual management of prospects and travellers leading to inefficiencies.",
+        "Lack of a unified data model for trips, purchased trips and buses.",
+        "Sales teams had no real‑time visibility into bookings and seat availability."
+      ],
+      "objectives": [
+        "Create custom objects for prospects, travellers, trips and purchased trips.",
+        "Use Person Accounts to convert prospects to travellers.",
+        "Automate lead conversion, email notifications and seat decrement.",
+        "Provide dashboards and reports for directors and sales reps.",
+        "Define roles and sharing rules to restrict data access by region."
+      ],
+      "methodology": [
+        "Gathered requirements with sales and management teams.",
+        "Configured standard objects (Lead renamed Prospect, Account renamed Traveller) and created custom objects for trips and purchased trips.",
+        "Set up Person Accounts to convert prospects to travellers seamlessly.",
+        "Built Flows to automate email confirmations, status changes and seat management.",
+        "Created reports and dashboards for trip availability, conversions and sales performance.",
+        "Configured roles and sharing rules for north and south regions and trained users."
+      ],
+      "results": [
+        "Streamlined prospect conversion and booking processes.",
+        "Improved data visibility and sales forecasting.",
+        "Enhanced productivity of sales teams and increased revenue.",
+        "Directors gained a comprehensive view of the bus fleet and business metrics."
+      ],
+      "jury": [],
+      "skills": [
+        "Sales Cloud",
+        "Custom Objects",
+        "Person Accounts",
+        "Flows",
+        "Reports"
+      ],
+      "resources": []
+    },
+    "digit-learning-app-update": {
+      "category": "Salesforce – Digit Learning",
+      "title": "Digit Learning – Salesforce App Improvement",
+      "summary": "Refactoring Digit Learning’s Salesforce environment to automate mentor assignment, course enrolment, status updates and reporting, reducing manual work by more than 80 %.",
+      "badges": [
+        {
+          "label": "Manual work reduced",
+          "value": "-80 %",
+          "description": "Major processes automated via Flows"
+        },
+        {
+          "label": "Flexible data model",
+          "value": "✓",
+          "description": "Supports multiple courses per student"
+        },
+        {
+          "label": "Automation flows",
+          "value": "10+",
+          "description": "Mentor assignment, status updates, seat decrement"
+        },
+        {
+          "label": "Reporting & analytics",
+          "value": "Added",
+          "description": "Dashboards & metrics created"
+        }
+      ],
+      "problems": [
+        "The data model only allowed one course per student, forcing duplication of records.",
+        "Student status had to be updated manually, taking around 15 minutes per student and leading to errors.",
+        "Sales reps manually decremented available seats when recording a purchase, a process that took over 30 minutes and caused 10 – 15 % data errors.",
+        "Managers lacked metrics and dashboards to monitor course capacity, mentor workloads and conversion rates."
+      ],
+      "objectives": [
+        "Design a data model that supports multiple course purchases per student without duplication.",
+        "Automate status updates based on course purchase and end dates.",
+        "Automate the decrement of available seats when a course is purchased.",
+        "Provide actionable reports and dashboards to track training capacities, conversion rates and mentor performance.",
+        "Save time for the sales team and improve data quality."
+      ],
+      "methodology": [
+        "Conducted interviews with key users and audited the existing Salesforce org to identify pain points.",
+        "Created a new custom object to store course purchases and restructured relationships between students and courses to allow multiple enrolments.",
+        "Built declarative flows to assign mentors automatically, update student status when a course is purchased or completed, and decrement available seats without manual intervention.",
+        "Implemented validation rules to enforce mandatory fields such as phone numbers and ensure data integrity.",
+        "Configured reports and dashboards: students by mentor and status, courses by type with remaining seats, and conversion rate comparisons before and after automation.",
+        "Deployed the changes through a sandbox using Workbench and trained users to adopt the new processes."
+      ],
+      "results": [
+        "Mentor assignment and course enrolment time reduced from over 30 minutes to about 5 minutes per student.",
+        "Status updates automated, saving approximately 15 minutes per student.",
+        "Seat management automated, reducing errors by an estimated 10 – 15 % and freeing the team from manual updates.",
+        "New dashboards provide real‑time insight into course capacity and conversions, enabling informed decisions for growth.",
+        "Overall efficiency gains allow staff to focus on coaching and business development rather than manual data entry."
+      ],
+      "jury": [
+        "The jury highlighted the thorough understanding of user needs, the relevance of the proposed automations and the clarity of the delivered dashboards.",
+        "They commended the significant time savings achieved and the improved data quality."
+      ],
+      "skills": [
+        "Salesforce Administration",
+        "Flows & Automation",
+        "Data modelling",
+        "Reports & Dashboards",
+        "Stakeholder interviews",
+        "Change management"
+      ],
+      "resources": [
+        {
+          "label": "GitHub repository",
+          "href": "#"
+        },
+        {
+          "label": "Analysis report",
+          "href": "#"
+        }
+      ]
+    },
+    "backend-optimisation-fasha": {
+      "title": "Backend Optimisation for FASHA",
+      "category": "Mission client FASHA",
+      "summary": "Refactoring triggers, batch Apex performance, reliable Net Amount calculations and code aligned with best practices to stabilise the CRM and accelerate weekly revenue updates.",
+      "badges": [
+        "Multinational retail",
+        "350 employees",
+        "Europe • USA • APAC",
+        "Budget €350k"
+      ],
+      "metrics": {
+        "performance": "Batch performance +++",
+        "stability": "OK",
+        "architecture": "Refactored",
+        "timeToRun": "Reduced"
+      },
+      "problems": [
+        "The UpdateAccountCA trigger failed on accounts with more than 100 orders.",
+        "Net Amount was correct in the UI but incorrect during imports via Data Loader.",
+        "The weekly revenue batch was too slow.",
+        "Disorganised code – inconsistent naming conventions, overly long classes and non‑compliant tests."
+      ],
+      "objectives": [
+        "Optimise the backend: move SOQL/DML out of triggers and avoid DML inside loops.",
+        "Accelerate the weekly revenue update batch.",
+        "Refactor the architecture (services, utilities, controllers).",
+        "Make Net Amount calculation reliable, including during mass imports."
+      ],
+      "methodology": [
+        {
+          "step": "Step 1",
+          "title": "Audit & refactoring",
+          "description": "Apply naming conventions, break up classes and clean up the codebase."
+        },
+        {
+          "step": "Step 2",
+          "title": "Slim triggers",
+          "description": "Remove SOQL and DML from triggers and delegate logic to service classes."
+        },
+        {
+          "step": "Step 3",
+          "title": "Reliable Net Amount",
+          "description": "Handle mass imports correctly so that Net Amount is calculated accurately."
+        },
+        {
+          "step": "Step 4",
+          "title": "Performant batch",
+          "description": "Optimise and harden the weekly batch job to process large volumes efficiently."
+        },
+        {
+          "step": "Step 5",
+          "title": "Solid unit tests",
+          "description": "Write structured tests with assertions aligned to best practices."
+        },
+        {
+          "step": "Step 6",
+          "title": "Team views",
+          "description": "Implement controller logic to provide views per salesperson."
+        }
+      ],
+      "results": [
+        "Stabilised the application even on large volumes.",
+        "Significantly accelerated the weekly batch.",
+        "Refactored code that is clear and maintainable.",
+        "Reliable Net Amount calculation, including during mass imports."
+      ],
+      "jury": [
+        "Good understanding of the mission, clear and relevant solutions, excellent oral presentation. Congratulations on the work done.",
+        "Triggers free of DML/DB operations; logic moved to service classes.",
+        "Optimised SOQL with no DML or queries inside loops.",
+        "Unit tests compliant with good coverage."
+      ],
+      "skills": [
+        "Salesforce Apex",
+        "SQL",
+        "Triggers & Best Practices",
+        "Batch Apex",
+        "Backend optimisation",
+        "Unit tests (Apex)",
+        "Clean code & conventions",
+        "Refactoring",
+        "Client communication"
+      ],
+      "resources": [
+        {
+          "title": "GitHub repository",
+          "description": "Source code for Apex classes, triggers, batch jobs and unit tests.",
+          "link": "https://github.com/Aiyeesha/Optimisez-un-backend-Apex"
+        },
+        {
+          "title": "Presentation & defence",
+          "description": "15‑minute presentation followed by a 10‑minute Q&A session.",
+          "link": "#"
+        }
+      ]
+    },
+    "lightning-app-avenir-telecom": {
+      "title": "Lightning App for Avenir Télécom",
+      "category": "Salesforce – Telecom Lightning App",
+      "summary": "Developed a custom Lightning application for Avenir Télécom’s southern sales team to streamline lead and opportunity management, enforce data quality and improve productivity.",
+      "badges": [
+        "Telecom",
+        "Lightning App",
+        "Scrum",
+        "Integration"
+      ],
+      "metrics": {
+        "customers": "20.4M",
+        "revenue": "€9.4B",
+        "duration": "3 months",
+        "region": "Southern France"
+      },
+      "problems": [
+        "Outdated tools led to manual and inconsistent processes.",
+        "Sales reps lacked a 360° view of customers and opportunities.",
+        "No automated validation or export functionality existed."
+      ],
+      "objectives": [
+        "Deliver a modern Lightning UI tailored for the sales team.",
+        "Automate lead, account and opportunity management with validations and flows.",
+        "Integrate external services (SIREN verification) and daily exports to an SFTP server.",
+        "Establish agile governance (Scrum and Kanban) and data quality processes."
+      ],
+      "methodology": [
+        "Collaborated with stakeholders to gather user stories and prioritise the backlog.",
+        "Designed the data model and Lightning pages for leads, accounts, contacts and opportunities.",
+        "Implemented flows, validation rules and integrations (SIREN API, SFTP exports).",
+        "Used Scrum ceremonies and Kanban boards to track progress and manage changes.",
+        "Conducted testing and documentation to ensure quality and adoption.",
+        "Provided training and change management for the sales team."
+      ],
+      "results": [
+        "Delivered a performant Lightning app that increased productivity of the southern sales team.",
+        "Ensured data quality and governance through validations and automated exports.",
+        "Unified 360° customer view enabling better decision‑making and forecasting.",
+        "Established a foundation for continuous improvement with agile methodologies."
+      ],
+      "jury": [],
+      "skills": [
+        "Lightning",
+        "Apex",
+        "Flows",
+        "Integration",
+        "Agile"
+      ],
+      "resources": []
+    },
+    "visualforce-to-lightning-migration": {
+      "title": "Visualforce to Lightning Migration",
+      "category": "Salesforce – Manufacturing",
+      "summary": "Migrated EG Manufacture’s legacy Visualforce solution to the Lightning Experience by creating Lightning Web Components and replacing unsupported JavaScript buttons.",
+      "badges": [
+        "Migration",
+        "LWC",
+        "Aura Actions",
+        "Refactoring"
+      ],
+      "metrics": {
+        "pageLoad": "-40%",
+        "userSatisfaction": "Improved"
+      },
+      "problems": [
+        "Legacy Visualforce pages were no longer supported in Lightning Experience.",
+        "JavaScript buttons could not run in Lightning and hindered workflow.",
+        "Apex controllers were tightly coupled to Visualforce and outdated."
+      ],
+      "objectives": [
+        "Analyse existing Visualforce pages and JavaScript buttons.",
+        "Design and build Lightning Web Components to replace legacy UI elements.",
+        "Replace JavaScript buttons with Aura quick actions and modern UI interactions.",
+        "Refactor Apex controllers to align with Lightning best practices.",
+        "Demonstrate Lightning features to users and ensure a smooth transition."
+      ],
+      "methodology": [
+        "Conducted an audit of the existing Visualforce pages and buttons.",
+        "Designed reusable Lightning Web Components for displaying related opportunities on account pages.",
+        "Replaced JavaScript buttons with Aura quick actions for updating lead statuses.",
+        "Refactored Apex controllers to decouple business logic from the UI.",
+        "Performed testing and user acceptance sessions to validate functionality.",
+        "Deployed to production and trained users on the new Lightning interface."
+      ],
+      "results": [
+        "Modernised the user interface with responsive Lightning components.",
+        "Improved performance with faster page loads and interactions.",
+        "Reduced technical debt and improved maintainability of the codebase.",
+        "Enabled users to leverage Lightning features and increase productivity."
+      ],
+      "jury": [],
+      "skills": [
+        "Lightning Web Components",
+        "Apex",
+        "Aura",
+        "Migration",
+        "Refactoring"
+      ],
+      "resources": []
+    },
+    "pochlib-library-app-ui": {
+      "title": "Poch’Lib Library App UI",
+      "category": "Front‑end – Library App",
+      "summary": "Built a responsive single‑page application to search and manage books for Poch’Lib using vanilla JavaScript, HTML and CSS.",
+      "badges": [
+        "JavaScript",
+        "Responsive",
+        "API",
+        "UI/UX"
+      ],
+      "metrics": {
+        "devicesSupported": "Mobile • Tablet • Desktop",
+        "dynamicSearch": "Enabled"
+      },
+      "problems": [
+        "No digital catalogue existed for the library, making it hard for users to search for books.",
+        "Existing systems were not mobile‑friendly.",
+        "Users could not create or manage a personal book list online."
+      ],
+      "objectives": [
+        "Implement a dynamic search interface using the Google Books API.",
+        "Allow users to add, list, edit and delete books in a personal list.",
+        "Ensure mobile‑first responsive design across devices.",
+        "Prevent duplicate entries and persist data using SessionStorage."
+      ],
+      "methodology": [
+        "Translated wireframes into semantic HTML and modular CSS.",
+        "Implemented the Google Books API search and result display with vanilla JavaScript.",
+        "Created a session‑based storage mechanism to save the book list and avoid duplicates.",
+        "Developed responsive layouts for mobile, tablet and desktop.",
+        "Tested the interface across browsers and devices and wrote a README for installation."
+      ],
+      "results": [
+        "Delivered a mobile‑first, responsive library app.",
+        "Enabled users to search and manage books from any device.",
+        "Provided a clean and intuitive user experience using only HTML, CSS and JavaScript."
+      ],
+      "jury": [],
+      "skills": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "API Integration",
+        "Responsive Design"
+      ],
+      "resources": []
+    },
+    "apex-backend-prototype-ltp": {
+      "title": "Apex Backend Prototype for LTP",
+      "category": "Salesforce – Logistics prototype",
+      "summary": "Created an Apex backend prototype for LTP to automate delivery management and integrate with carriers via REST and Platform Events.",
+      "badges": [
+        "Logistics",
+        "Apex",
+        "REST",
+        "Platform Events"
+      ],
+      "metrics": {
+        "callReduction": "-70%",
+        "scalability": "Proven"
+      },
+      "problems": [
+        "Customers and support teams handled deliveries manually, resulting in a high volume of phone calls.",
+        "There was no integration between Salesforce and transport carriers.",
+        "Data imports lacked error handling and logging."
+      ],
+      "objectives": [
+        "Design custom objects for deliveries and transporter configurations.",
+        "Integrate with carriers via REST services and Platform Events.",
+        "Implement queueable processes to handle asynchronous operations.",
+        "Develop CSV import and error logging mechanisms.",
+        "Define roles and access controls for support and commercial teams."
+      ],
+      "methodology": [
+        "Modelled custom objects and relationships for deliveries and transporters.",
+        "Developed Apex REST controllers to receive webhooks from carriers.",
+        "Used Platform Events and Flows to orchestrate business logic and notifications.",
+        "Implemented Queueable classes to process callouts and send updates to external systems.",
+        "Created a CSV import feature with error logging and monitoring.",
+        "Defined profiles, permission sets and sharing rules for each role."
+      ],
+      "results": [
+        "Reduced manual calls by an estimated 70%.",
+        "Provided a scalable architecture for future enhancements.",
+        "Improved visibility of deliveries and carrier status across regions.",
+        "Established guidelines for a full‑scale implementation."
+      ],
+      "jury": [],
+      "skills": [
+        "Apex",
+        "REST",
+        "Platform Events",
+        "Queueable",
+        "Integration"
+      ],
+      "resources": []
+    },
+    "hemibiotech-java-debugging": {
+      "title": "Hemebiotech Java Debugging",
+      "category": "Java – Debugging & Refactoring",
+      "summary": "Debugged and refactored a Java symptom analysis tool for Heme Biotech, ensuring accurate counts and clean, maintainable code.",
+      "badges": [
+        "Java",
+        "Refactoring",
+        "Debugging",
+        "File I/O"
+      ],
+      "metrics": {
+        "bugResolution": "100%",
+        "codeQuality": "Improved"
+      },
+      "problems": [
+        "The program returned zero counts due to logic errors.",
+        "Code was messy with unnecessary comments and poor structure.",
+        "File resources were not properly closed and exceptions were not handled."
+      ],
+      "objectives": [
+        "Identify and fix logical errors to correctly count symptom occurrences.",
+        "Refactor code to follow object‑oriented principles and clean coding standards.",
+        "Ensure resources are closed and exceptions are handled.",
+        "Implement sorting of the output file and add documentation."
+      ],
+      "methodology": [
+        "Analysed the existing code to locate bugs and performance issues.",
+        "Refactored the code into classes and methods with clear responsibilities.",
+        "Implemented proper file handling and exception management.",
+        "Added logic to sort results alphabetically and wrote Javadoc comments.",
+        "Set up Git version control to track changes and facilitate collaboration."
+      ],
+      "results": [
+        "The tool now counts symptom occurrences accurately and produces a sorted result file.",
+        "Codebase is cleaner, modular and easier to understand.",
+        "Documentation and version control support future development."
+      ],
+      "jury": [],
+      "skills": [
+        "Java",
+        "Debugging",
+        "Refactoring",
+        "OOP",
+        "File I/O"
+      ],
+      "resources": []
+    },
+    "parkit-java-feature-testing": {
+      "title": "Park’it Java Feature Testing",
+      "category": "Java – Test Automation",
+      "summary": "Implemented TDD‑driven unit and integration tests for the Park’it parking system while adding features like free first half hour and loyalty discounts.",
+      "badges": [
+        "Java",
+        "TDD",
+        "JUnit",
+        "Parking"
+      ],
+      "metrics": {
+        "coverage": "70%+",
+        "features": "Implemented"
+      },
+      "problems": [
+        "There were no automated tests, so new features risked breaking existing behaviour.",
+        "Manual testing was time‑consuming and error‑prone."
+      ],
+      "objectives": [
+        "Add business features: free first 30 minutes and 5% discount for returning users.",
+        "Refactor code to make it testable and robust.",
+        "Develop unit and integration tests with JUnit, JaCoCo and Surefire.",
+        "Adopt a test‑driven development approach and achieve at least 70% coverage."
+      ],
+      "methodology": [
+        "Reviewed existing code and identified areas needing refactoring.",
+        "Implemented the new business logic in small increments with accompanying tests.",
+        "Used JUnit for unit testing and JaCoCo for code coverage analysis.",
+        "Created integration tests to verify end‑to‑end functionality.",
+        "Iterated under a TDD approach, ensuring tests drove the design.",
+        "Generated coverage reports and documentation."
+      ],
+      "results": [
+        "New features were delivered with confidence thanks to comprehensive test coverage.",
+        "Achieved over 70% code coverage.",
+        "Improved code quality and maintainability through refactoring.",
+        "Established a testing culture that supports future development."
+      ],
+      "jury": [],
+      "skills": [
+        "Java",
+        "JUnit",
+        "JaCoCo",
+        "TDD",
+        "Parking System"
+      ],
+      "resources": []
+    }
+  }
+}
