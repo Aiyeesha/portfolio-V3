@@ -13,6 +13,10 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { useTranslation } from 'react-i18next';
 import avatarImg from '../assets/avatar.png';
+// Company logos for the hero section
+import ldLogo from '../assets/lddigitales.webp';
+import midrangeLogo from '../assets/midrange.png';
+import easynetLogo from '../assets/easynet.png';
 
 export const Hero: React.FC = () => {
   const { t } = useTranslation();
@@ -161,6 +165,25 @@ export const Hero: React.FC = () => {
               </div>
             </div>
           </div>
+        </div>
+
+        {/* Company logos row */}
+        <div className="mt-6 flex items-center justify-center gap-6">
+          <img
+            src={ldLogo}
+            alt="LD Digitales logo"
+            className="h-8 w-auto"
+          />
+          <img
+            src={midrangeLogo}
+            alt="Midrange Group logo"
+            className="h-8 w-auto"
+          />
+          <img
+            src={easynetLogo}
+            alt="Easynet logo"
+            className="h-8 w-auto"
+          />
         </div>
       </motion.div>
     </div>

@@ -37,23 +37,24 @@ const ProjectCard: React.FC<ProjectItem> = ({
   tags,
   type
 }) => {
+  const { t } = useTranslation();
   let badgeLabel: string | null = null;
   let badgeClass = '';
 
   switch (type) {
     case 'client':
-      badgeLabel = 'Contexte client';
+      badgeLabel = t('projects.badgeClient');
       badgeClass =
         'border-emerald-400/30 text-emerald-300 bg-emerald-500/10';
       break;
     case 'formation':
     case 'training':
-      badgeLabel = 'Projet de formation';
+      badgeLabel = t('projects.badgeTraining');
       badgeClass = 'border-sky-400/30 text-sky-300 bg-sky-500/10';
       break;
     case 'perso':
     case 'personal':
-      badgeLabel = 'Projet personnel';
+      badgeLabel = t('projects.badgePersonal');
       badgeClass =
         'border-violet-400/30 text-violet-300 bg-violet-500/10';
       break;
@@ -78,11 +79,11 @@ const ProjectCard: React.FC<ProjectItem> = ({
       </div>
       <p className="mt-1 text-xs text-slate-400">{context}</p>
       <p className="mt-2 text-xs text-slate-300">
-        <span className="font-semibold">Role:&nbsp;</span>
+        <span className="font-semibold">{t('projects.roleLabel')}:&nbsp;</span>
         {role}
       </p>
       <p className="mt-1 text-xs text-slate-300">
-        <span className="font-semibold">Impact:&nbsp;</span>
+        <span className="font-semibold">{t('projects.impactLabel')}:&nbsp;</span>
         {impact}
       </p>
       <div className="mt-3 flex flex-wrap gap-2 text-[11px] text-slate-300">

@@ -48,7 +48,7 @@ export const Navbar: React.FC = () => {
 
   return (
     <header className="fixed inset-x-0 top-0 z-40 bg-slate-950/70 backdrop-blur-md border-b border-slate-800">
-      <nav className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3">
+      <nav aria-label="Primary navigation" className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3">
         <div
           className="flex items-center gap-2 cursor-pointer"
           onClick={() => handleScroll('hero')}

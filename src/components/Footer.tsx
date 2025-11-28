@@ -2,8 +2,8 @@
 // Footer.tsx
 //
 // This component renders the footer at the bottom of the page. It shows the
-// current year, copyright notice and links to terms of service and privacy
-// policy, all translated via react‑i18next. Tailwind CSS utilities provide
+// current year, a short copyright notice and a line indicating who developed
+// the site, all translated via react‑i18next. Tailwind CSS utilities provide
 // styling and responsive alignment.
 // -----------------------------------------------------------------------------
 

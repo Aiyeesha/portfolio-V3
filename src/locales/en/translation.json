@@ -512,7 +512,12 @@
       "client": "Client context",
       "formation": "Training project",
       "perso": "Personal project"
-    }
+    },
+    "roleLabel": "Role",
+    "impactLabel": "Impact",
+    "badgeClient": "Client context",
+    "badgeTraining": "Training project",
+    "badgePersonal": "Personal project"
   },
   "certifications": {
     "eyebrow": "Certifications & training",
@@ -546,25 +551,25 @@
       {
         "name": "Salesforce Administrator",
         "provider": "Salesforce",
-        "date": "by 31 Dec 2025",
+        "date": "by 31 Mar 2026",
         "status": "Planned"
       },
       {
         "name": "Salesforce App Builder",
         "provider": "Salesforce",
-        "date": "by 31 Dec 2025",
+        "date": "by 31 Mar 2026",
         "status": "Planned"
       },
       {
         "name": "Salesforce Platform Developer I",
         "provider": "Salesforce",
-        "date": "by 31 Dec 2025",
+        "date": "by 31 Mar 2026",
         "status": "Planned"
       },
       {
         "name": "ISC2 CC (Certified in Cybersecurity)",
         "provider": "ISC2",
-        "date": "by 31 Dec 2025",
+        "date": "by 31 Mar 2026",
         "status": "Planned"
       }
     ]
@@ -624,6 +629,8 @@
     "sidebar": {
       "preferred": "Preferred contact methods",
       "preferredText": "Feel free to reach out via email or LinkedIn if you prefer.",
+      "emailLabel": "Email:",
+      "linkedinLabel": "LinkedIn:",
       "freelanceTitle": "Availability",
       "freelanceText": "Open for part‑time or full‑time freelance missions in Europe, Cyprus and APAC."
     },
@@ -1845,6 +1852,9 @@
     "skillsTitle": "Skills",
     "resourcesTitle": "Links & resources",
     "problemsLabel": "Major problems",
-    "objectivesLabel": "Objectives"
+    "objectivesLabel": "Objectives",
+    "notFoundTitle": "Project not found",
+    "notFoundDescription": "We couldn’t find a project with this identifier.",
+    "backToHome": "Back to home"
   }
 }

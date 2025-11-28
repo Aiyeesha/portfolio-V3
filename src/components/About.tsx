@@ -23,7 +23,7 @@ export const About: React.FC = () => {
         subtitle={t('about.subtitle')}
       />
       <div className="grid gap-8 md:grid-cols-[minmax(0,1.4fr)_minmax(0,1fr)]">
-        <div className="space-y-4 text-sm text-slate-300">
+        <div className="space-y-4 text-sm text-slate-300 leading-relaxed">
           <p>{t('about.paragraph1')}</p>
           <p>{t('about.paragraph2')}</p>
           <p>{t('about.paragraph3')}</p>

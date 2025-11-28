@@ -374,6 +374,128 @@
           "Test unitari",
           "Test di integrazione"
         ]
+      },
+      {
+        "name": "Distribuzione di workstation Dell per MIDRANGE GROUP",
+        "slug": "midrange-dell-deployment",
+        "context": "Stage all'interno del team Alternative Partner Solutions (APS) di MIDRANGE GROUP.",
+        "role": "Tecnica junior di sistemi e reti (stage)",
+        "impact": "Preparato e messo in servizio 64 desktop Dell Optiplex e 200 laptop Dell Latitude: cancellazione sicura dei dati con Blancco, immagini Windows standardizzate, aggiornamenti firmware.",
+        "tags": [
+          "client",
+          "Blancco",
+          "Windows 10",
+          "Sysprep",
+          "Autopilot",
+          "Dell ImageAssist"
+        ],
+        "type": "client"
+      },
+      {
+        "name": "Gestione degli incidenti con Webroot e Datto RMM",
+        "slug": "midrange-webroot-incident",
+        "context": "Stage nel team di Supporto Tecnico di MIDRANGE GROUP.",
+        "role": "Tecnica di supporto junior (stage)",
+        "impact": "Gestito un ticket cliente bloccato da Webroot: accesso remoto con Datto RMM, analisi della causa principale, creazione di un'eccezione in Webroot e validazione della soluzione con l'utente.",
+        "tags": [
+          "client",
+          "Support",
+          "Webroot",
+          "Datto RMM",
+          "Autotask"
+        ],
+        "type": "client"
+      },
+      {
+        "name": "Monitoraggio e backup con Acronis e Datto RMM",
+        "slug": "midrange-acronis-backup-monitoring",
+        "context": "Stage nel team Operazioni di MIDRANGE GROUP.",
+        "role": "Tecnica junior di operazioni (stage)",
+        "impact": "Monitorato i backup dei server dei clienti con Acronis Cyber Protect Cloud / Cyber Backup, analizzato gli allarmi, ricreato i piani di backup e diagnosticati problemi di rete.",
+        "tags": [
+          "client",
+          "Acronis",
+          "Datto RMM",
+          "Backups",
+          "Monitoring"
+        ],
+        "type": "client"
+      },
+      {
+        "name": "Ambiente di laboratorio virtualizzato Windows Server 2022",
+        "slug": "lab-windows-server-2022-infra",
+        "context": "Progetto formativo TSSR in ambiente virtualizzato.",
+        "role": "Amministratrice di sistemi e reti (progetto formativo)",
+        "impact": "Configurato un controller di dominio Windows Server 2022 con AD DS, DNS, DHCP e WDS, profili mobili, GPO e distribuzione automatizzata di client Windows 10.",
+        "tags": [
+          "training",
+          "Windows Server 2022",
+          "AD DS",
+          "DNS",
+          "DHCP",
+          "WDS",
+          "PXE"
+        ],
+        "type": "training"
+      },
+      {
+        "name": "Proteggere l'accesso a Internet con pfSense e Squid",
+        "slug": "lab-pfsense-squid-firewall",
+        "context": "Progetto di laboratorio di rete in ambiente virtualizzato.",
+        "role": "Amministratrice della sicurezza di rete (progetto formativo)",
+        "impact": "Ho aggiunto un firewall pfSense e un proxy Squid a una rete privata esistente: configurazione WAN/LAN, installazione di Squid, ACL, regole firewall e configurazione dei client.",
+        "tags": [
+          "training",
+          "pfSense",
+          "Squid",
+          "Firewall",
+          "Network security"
+        ],
+        "type": "training"
+      },
+      {
+        "name": "Aggiornamento hardware del portatile (SSD e RAM)",
+        "slug": "personal-laptop-upgrade-ssd-ram",
+        "context": "Progetto personale per migliorare le prestazioni di un portatile.",
+        "role": "Tecnica di supporto e hardware",
+        "impact": "Ho sostituito l'HDD con un SSD da 2 TB e aggiunto 32 GB di RAM, clonato il disco con Acronis, verificato la compatibilità e testato i miglioramenti delle prestazioni.",
+        "tags": [
+          "personal",
+          "Hardware",
+          "SSD",
+          "RAM",
+          "Acronis"
+        ],
+        "type": "personal"
+      },
+      {
+        "name": "Configurazione dei profili mobili con AD DS",
+        "slug": "lab-roaming-profiles-adds",
+        "context": "Laboratorio pratico durante il corso TAI presso Greta du Val d’Oise.",
+        "role": "Tecnica junior di sistemi (progetto formativo)",
+        "impact": "Ho creato condivisioni di rete sicure e configurato profili mobili AD DS in modo che gli utenti potessero mantenere lo stesso ambiente su più postazioni di lavoro.",
+        "tags": [
+          "training",
+          "Windows Server",
+          "AD DS",
+          "Roaming profiles"
+        ],
+        "type": "training"
+      },
+      {
+        "name": "Distribuzione e riparazione di PC presso Greta",
+        "slug": "lab-pc-deployment-repair-greta",
+        "context": "Progetti pratici durante la formazione professionale TAI.",
+        "role": "Tecnica di supporto informatico (progetto formativo)",
+        "impact": "Installati, aggiornati e configurati i PC dei clienti, riparato macchine lente, reinstallato sistemi da immagini ISO e configurati backup e punti di accesso Wi-Fi.",
+        "tags": [
+          "training",
+          "Windows 10",
+          "User support",
+          "Wi‑Fi",
+          "Backups"
+        ],
+        "type": "training"
       }
     ],
     "dossiers": {
@@ -385,7 +507,12 @@
       "client": "Contesto cliente",
       "formation": "Progetto di formazione",
       "perso": "Progetto personale"
-    }
+    },
+    "roleLabel": "Ruolo",
+    "impactLabel": "Impatto",
+    "badgeClient": "Contesto cliente",
+    "badgeTraining": "Progetto di formazione",
+    "badgePersonal": "Progetto personale"
   },
   "projectPage": {
     "contextChallengesTitle": "Contesto e sfide",
@@ -395,7 +522,10 @@
     "skillsTitle": "Competenze",
     "resourcesTitle": "Collegamenti & risorse",
     "problemsLabel": "Problemi principali",
-    "objectivesLabel": "Obiettivi"
+    "objectivesLabel": "Obiettivi",
+    "notFoundTitle": "Progetto non trovato",
+    "notFoundDescription": "Non abbiamo trovato un progetto con questo identificatore.",
+    "backToHome": "Torna alla home"
   },
   "certifications": {
     "eyebrow": "Certificazioni e formazione",
@@ -405,7 +535,7 @@
       {
         "name": "Diploma Developer Salesforce",
         "provider": "OpenClassrooms",
-        "date": "Ott 2023 – Ott 2025",
+        "date": "entro il 31 marzo 2026",
         "status": "Completato"
       },
       {
@@ -429,25 +559,25 @@
       {
         "name": "Amministratore Salesforce",
         "provider": "Salesforce",
-        "date": "entro il 31 dicembre 2025",
+        "date": "entro il 31 marzo 2026",
         "status": "Pianificato"
       },
       {
         "name": "App Builder Salesforce",
         "provider": "Salesforce",
-        "date": "entro il 31 dicembre 2025",
+        "date": "entro il 31 marzo 2026",
         "status": "Pianificato"
       },
       {
         "name": "Platform Developer I Salesforce",
         "provider": "Salesforce",
-        "date": "entro il 31 dicembre 2025",
+        "date": "entro il 31 marzo 2026",
         "status": "Pianificato"
       },
       {
         "name": "ISC2 CC (Certified in Cybersecurity)",
         "provider": "ISC2",
-        "date": "entro il 31 dicembre 2025",
+        "date": "entro il 31 marzo 2026",
         "status": "Pianificato"
       }
     ]
@@ -507,6 +637,8 @@
     "sidebar": {
       "preferred": "Modalità di contatto preferite",
       "preferredText": "Se preferisci, puoi contattarmi via email o LinkedIn.",
+      "emailLabel": "Email:",
+      "linkedinLabel": "LinkedIn:",
       "freelanceTitle": "Disponibilità",
       "freelanceText": "Disponibile per incarichi freelance part‑time o full‑time in Europa, Cipro e Asia‑Pacifico."
     },
@@ -1306,6 +1438,415 @@
         "JaCoCo",
         "TDD",
         "Parking System"
+      ],
+      "resources": []
+    },
+    "lab-pfsense-squid-firewall": {
+      "title": "Proteggere l'accesso a Internet con pfSense e Squid",
+      "category": "Reti e Sicurezza – Progetto di formazione",
+      "summary": "Ho aggiunto un firewall pfSense e un proxy Squid a una rete virtuale per controllare e registrare il traffico HTTP/HTTPS in uscita.",
+      "badges": [
+        "Firewall",
+        "Proxy",
+        "Network security"
+      ],
+      "problems": [
+        "Client machines had direct Internet access with minimal control.",
+        "No detailed logging of users’ web activity.",
+        "Need to enforce differentiated access policies."
+      ],
+      "objectives": [
+        "Insert a pfSense firewall between the internal network and the Internet.",
+        "Deploy a Squid proxy to filter and log web traffic.",
+        "Test multiple allow/deny scenarios."
+      ],
+      "methodology": [
+        {
+          "step": "01",
+          "title": "pfSense installation and configuration",
+          "description": "Set up pfSense with WAN/LAN interfaces, configured gateway and initial firewall rules."
+        },
+        {
+          "step": "02",
+          "title": "Squid proxy setup",
+          "description": "Installed and configured Squid on pfSense, defined ACLs and filtering policies for different traffic types."
+        },
+        {
+          "step": "03",
+          "title": "Client configuration and log analysis",
+          "description": "Configured browsers to use the proxy, ran browsing tests and analysed logs to verify expected behaviour."
+        }
+      ],
+      "results": [
+        "Better understanding of web traffic filtering and logging.",
+        "Ability to adapt security rules quickly to a client context.",
+        "Reusable technical base for Internet access hardening projects."
+      ],
+      "jury": [],
+      "skills": [
+        "pfSense",
+        "Squid",
+        "Firewall",
+        "ACL",
+        "HTTP/HTTPS"
+      ],
+      "resources": []
+    },
+    "midrange-webroot-incident": {
+      "title": "Gestione degli incidenti con Webroot e Datto RMM",
+      "category": "Supporto e Sicurezza – Stage",
+      "summary": "Gestito un incidente utente in cui un antivirus bloccava un'applicazione aziendale, dalla diagnosi remota alla creazione di un'eccezione controllata.",
+      "badges": [
+        "User support",
+        "Security",
+        "Remote access"
+      ],
+      "problems": [
+        "A line-of-business application was blocked by the antivirus on the user’s workstation.",
+        "The user could not work and the ticket was urgent.",
+        "Security had to be adapted without weakening overall protection."
+      ],
+      "objectives": [
+        "Restore the application so the user could work again.",
+        "Identify the exact cause of the block.",
+        "Create a focused, documented exception in Webroot."
+      ],
+      "methodology": [
+        {
+          "step": "01",
+          "title": "Ticket analysis and remote access",
+          "description": "Reviewed ticket information in Autotask, checked logs, then connected to the workstation using Datto RMM / Splashtop to reproduce the issue."
+        },
+        {
+          "step": "02",
+          "title": "Diagnosis and Webroot rule adjustment",
+          "description": "Identified the blocked binary or path, confirmed it was a legitimate application, then added a targeted exception in Webroot."
+        },
+        {
+          "step": "03",
+          "title": "User validation and documentation",
+          "description": "Tested with the user to confirm the fix, updated the ticket and documented the solution for similar future incidents."
+        }
+      ],
+      "results": [
+        "Incident resolved while maintaining an appropriate security level.",
+        "Improved communication between support and the end user.",
+        "Solution captured in the internal knowledge base."
+      ],
+      "jury": [],
+      "skills": [
+        "User support",
+        "Webroot",
+        "Datto RMM",
+        "Splashtop",
+        "Application troubleshooting"
+      ],
+      "resources": []
+    },
+    "midrange-acronis-backup-monitoring": {
+      "title": "Monitoraggio dei backup con Acronis e Datto RMM",
+      "category": "Operazioni – Stage",
+      "summary": "Monitoraggio quotidiano dei backup dei server dei clienti e gestione degli allarmi utilizzando Acronis Cyber Protect Cloud / Cyber Backup e Datto RMM.",
+      "badges": [
+        "Backups",
+        "Monitoring",
+        "Client context"
+      ],
+      "problems": [
+        "Some backups failed regularly without detailed analysis.",
+        "Servers appeared offline or with full storage.",
+        "The client needed to be confident about data recovery in case of an incident."
+      ],
+      "objectives": [
+        "Identify and remediate failing backups.",
+        "Maintain regular visibility on the status of backed-up servers.",
+        "Improve the overall reliability of backup plans."
+      ],
+      "methodology": [
+        {
+          "step": "01",
+          "title": "Dashboard analysis in Acronis",
+          "description": "Reviewed Acronis consoles, filtered failing backups and collected error messages."
+        },
+        {
+          "step": "02",
+          "title": "Investigation and fixes",
+          "description": "Diagnosed root causes (full storage, unreachable server, misconfigured plan), updated backup plans and applied fixes on servers via Datto RMM."
+        },
+        {
+          "step": "03",
+          "title": "Follow-up and documentation",
+          "description": "Reran corrected backups, checked that alerts disappeared and documented actions for the client and the internal team."
+        }
+      ],
+      "results": [
+        "Reduced number of failing backups over the monitored period.",
+        "Improved visibility on client server health.",
+        "Faster reaction to critical alerts for the operations team."
+      ],
+      "jury": [],
+      "skills": [
+        "Acronis Cyber Protect Cloud",
+        "Acronis Cyber Backup",
+        "Datto RMM",
+        "Alert analysis",
+        "Network troubleshooting"
+      ],
+      "resources": []
+    },
+    "midrange-dell-deployment": {
+      "title": "Distribuzione di workstation Dell per MIDRANGE GROUP",
+      "category": "Sistemi e Reti – Stage",
+      "summary": "Distribuzione industrializzata di 264 desktop e laptop Dell per clienti aziendali, con cancellazione sicura e immagini Windows standardizzate.",
+      "badges": [
+        "Client context",
+        "Workstation deployment",
+        "Windows 10",
+        "Automation"
+      ],
+      "problems": [
+        "A large number of workstations had to be prepared within a limited timeframe.",
+        "Risk of data leakage if old disks were not wiped correctly.",
+        "Need to provide a consistent experience to end users."
+      ],
+      "objectives": [
+        "Prepare and deliver more than 250 workstations with a standard, functional image.",
+        "Ensure secure wiping of existing disks before reassignment.",
+        "Reduce manual configuration time per workstation."
+      ],
+      "methodology": [
+        {
+          "step": "01",
+          "title": "Secure wiping and hardware checks",
+          "description": "Used Blancco to securely wipe existing disks, then checked hardware (RAM, storage, overall state) before starting preparation."
+        },
+        {
+          "step": "02",
+          "title": "Image creation and deployment",
+          "description": "Built a Windows 10 image with Dell drivers, business tools and standard settings, then deployed it using Sysprep, Autopilot and Dell ImageAssist."
+        },
+        {
+          "step": "03",
+          "title": "Final configuration and validation",
+          "description": "Activated Windows licences, updated drivers, checked network connectivity and ran simple user tests before handing over the machines."
+        }
+      ],
+      "results": [
+        "264 ready-to-use workstations delivered within the expected timeframe.",
+        "No major incidents reported related to the initial preparation.",
+        "Deployment process documented and easily reusable for future projects."
+      ],
+      "jury": [],
+      "skills": [
+        "Blancco",
+        "Windows 10",
+        "Sysprep",
+        "Autopilot",
+        "Dell ImageAssist",
+        "Fleet management"
+      ],
+      "resources": []
+    },
+    "personal-laptop-upgrade-ssd-ram": {
+      "title": "Aggiornamento hardware del portatile (SSD e RAM)",
+      "category": "Supporto e Hardware – Progetto personale",
+      "summary": "Ho migliorato le prestazioni di un portatile sostituendo l'HDD con un SSD più grande e aggiornando la RAM.",
+      "badges": [
+        "Personal project",
+        "Hardware",
+        "Performance"
+      ],
+      "problems": [
+        "The laptop was slow, lacked disk space and was frustrating to use.",
+        "Applications and the OS took a long time to start."
+      ],
+      "objectives": [
+        "Replace the mechanical HDD with a faster SSD.",
+        "Increase RAM capacity to improve multitasking.",
+        "Keep the existing software environment through disk cloning."
+      ],
+      "methodology": [
+        {
+          "step": "01",
+          "title": "Diagnosis and hardware preparation",
+          "description": "Identified hardware limitations, selected a 2 TB SSD and compatible RAM modules, and backed up key data."
+        },
+        {
+          "step": "02",
+          "title": "Disk cloning and physical upgrade",
+          "description": "Cloned the existing disk with Acronis, opened the laptop, replaced the disk and added RAM, then checked successful boot."
+        },
+        {
+          "step": "03",
+          "title": "Performance tests and fine-tuning",
+          "description": "Verified RAM recognition, checked system stability, updated drivers and tested application responsiveness."
+        }
+      ],
+      "results": [
+        "Significantly faster boot and application startup times.",
+        "Improved user comfort and extended laptop lifespan.",
+        "Hands-on experience with hardware upgrades and disk cloning."
+      ],
+      "jury": [],
+      "skills": [
+        "Acronis",
+        "Disk cloning",
+        "SSD",
+        "RAM",
+        "Hardware maintenance"
+      ],
+      "resources": []
+    },
+    "lab-windows-server-2022-infra": {
+      "title": "Laboratorio Windows Server 2022: AD DS, DNS, DHCP, WDS e PXE",
+      "category": "Sistemi e Reti – Progetto di formazione",
+      "summary": "Ambiente di laboratorio Windows Server 2022 end-to-end in una configurazione virtualizzata per simulare una piccola rete aziendale.",
+      "badges": [
+        "Windows Server 2022",
+        "Active Directory",
+        "DHCP/DNS",
+        "PXE"
+      ],
+      "problems": [
+        "Need for a realistic lab to understand AD DS, DNS, DHCP and WDS roles.",
+        "Requirement to automate Windows client deployment.",
+        "Need to keep configuration consistent across services."
+      ],
+      "objectives": [
+        "Install and configure a Windows Server 2022 domain controller.",
+        "Set up DHCP, DNS and WDS to deploy Windows 10 clients.",
+        "Test user profiles and basic Group Policy scenarios."
+      ],
+      "methodology": [
+        {
+          "step": "01",
+          "title": "Lab architecture design",
+          "description": "Created multiple virtual machines in VMware Workstation (server, clients) and defined an IP addressing plan."
+        },
+        {
+          "step": "02",
+          "title": "Roles and services installation",
+          "description": "Configured AD DS, promoted the domain controller, set up DNS and DHCP, installed WDS and created deployment images."
+        },
+        {
+          "step": "03",
+          "title": "PXE deployment and functional tests",
+          "description": "Booted clients via PXE, joined them to the domain, configured roaming profiles and applied basic GPOs (network drives, restrictions)."
+        }
+      ],
+      "results": [
+        "Complete lab allowing realistic enterprise-style scenarios.",
+        "Clear understanding of how AD DS, DNS, DHCP and WDS work together.",
+        "Reusable base for further networking and security experiments."
+      ],
+      "jury": [],
+      "skills": [
+        "VMware Workstation",
+        "Windows Server 2022",
+        "AD DS",
+        "DNS",
+        "DHCP",
+        "WDS",
+        "PXE",
+        "GPO"
+      ],
+      "resources": []
+    },
+    "lab-roaming-profiles-adds": {
+      "title": "Profili mobili con Active Directory",
+      "category": "Sistemi – Progetto di formazione",
+      "summary": "Configurati profili mobili e condivisioni di rete in modo che gli utenti possano mantenere il proprio ambiente su più postazioni di lavoro.",
+      "badges": [
+        "Active Directory",
+        "Roaming profiles",
+        "Network shares"
+      ],
+      "problems": [
+        "Users frequently switch workstations in training rooms.",
+        "They lose settings or files when nothing is centralised."
+      ],
+      "objectives": [
+        "Store user profiles on a central file server.",
+        "Provide a consistent experience regardless of the workstation used.",
+        "Set up appropriate network shares."
+      ],
+      "methodology": [
+        {
+          "step": "01",
+          "title": "Active Directory preparation",
+          "description": "Created required OUs, user accounts and groups in Active Directory."
+        },
+        {
+          "step": "02",
+          "title": "Roaming profiles configuration",
+          "description": "Defined profile paths on a secure network share and granted appropriate permissions."
+        },
+        {
+          "step": "03",
+          "title": "Multi-workstation testing",
+          "description": "Logged in with the same account on several machines and checked profile loading and access to shares."
+        }
+      ],
+      "results": [
+        "Consistent user experience in training rooms.",
+        "Better understanding of AD roaming profile mechanisms.",
+        "Foundation for multi-workstation environments in production."
+      ],
+      "jury": [],
+      "skills": [
+        "Windows Server",
+        "AD DS",
+        "Roaming profiles",
+        "Network shares"
+      ],
+      "resources": []
+    },
+    "lab-pc-deployment-repair-greta": {
+      "title": "Distribuzione e risoluzione di problemi di PC presso Greta",
+      "category": "Supporto – Progetti di formazione",
+      "summary": "Installati, configurati e risolti problemi di PC dei clienti in un contesto di centro di formazione.",
+      "badges": [
+        "Support",
+        "Installation",
+        "Troubleshooting"
+      ],
+      "problems": [
+        "Some PCs were slow, misconfigured or outdated.",
+        "Learners needed reliable machines to follow courses."
+      ],
+      "objectives": [
+        "Restore client PCs to a usable state for daily use in classrooms.",
+        "Standardise base configuration across machines.",
+        "Document interventions for easier maintenance."
+      ],
+      "methodology": [
+        {
+          "step": "01",
+          "title": "Workstation audit",
+          "description": "Inventoried machines, checked system health and identified the need for upgrades or reinstallations."
+        },
+        {
+          "step": "02",
+          "title": "Reinstallation and configuration",
+          "description": "Reinstalled Windows from ISO images, updated drivers, configured network settings and installed training software."
+        },
+        {
+          "step": "03",
+          "title": "Testing and handover",
+          "description": "Tested stability, network access and user accounts, then handed PCs back to trainers and learners."
+        }
+      ],
+      "results": [
+        "More homogeneous and performant workstations for learners.",
+        "Time savings for trainers thanks to ready-to-use PCs.",
+        "Tangible experience in workstation installation and support."
+      ],
+      "jury": [],
+      "skills": [
+        "Windows 10",
+        "System installation",
+        "User support",
+        "Local networking"
       ],
       "resources": []
     }

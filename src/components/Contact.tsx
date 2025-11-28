@@ -121,7 +121,10 @@ export const Contact: React.FC = () => {
             </p>
             <ul className="mt-3 space-y-1 text-xs text-slate-300">
               <li>
-                <span className="font-semibold">Email:&nbsp;</span>
+                <span className="font-semibold">
+                  {t('contact.sidebar.emailLabel')}
+                  &nbsp;
+                </span>
                 <a
                   href="mailto:ai.dahoumane@gmail.com"
                   className="text-brand-200 hover:text-brand-100"
@@ -130,11 +133,14 @@ export const Contact: React.FC = () => {
                 </a>
               </li>
               <li>
-                <span className="font-semibold">LinkedIn:&nbsp;</span>
+                <span className="font-semibold">
+                  {t('contact.sidebar.linkedinLabel')}
+                  &nbsp;
+                </span>
                 <a
                   href="https://www.linkedin.com/in/aicha-imene-dahoumane"
                   target="_blank"
-                  rel="noreferrer"
+                  rel="noopener noreferrer"
                   className="text-brand-200 hover:text-brand-100"
                 >
                   linkedin.com/in/aicha-imene-dahoumane

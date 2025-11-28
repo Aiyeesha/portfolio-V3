@@ -512,7 +512,12 @@
       "client": "Contexte client",
       "formation": "Projet de formation",
       "perso": "Projet personnel"
-    }
+    },
+    "roleLabel": "Rôle",
+    "impactLabel": "Impact",
+    "badgeClient": "Contexte client",
+    "badgeTraining": "Projet de formation",
+    "badgePersonal": "Projet personnel"
   },
   "projectPage": {
     "contextChallengesTitle": "Contexte & Défis",
@@ -522,7 +527,10 @@
     "skillsTitle": "Compétences mobilisées",
     "resourcesTitle": "Liens & ressources",
     "problemsLabel": "Problématiques",
-    "objectivesLabel": "Objectifs"
+    "objectivesLabel": "Objectifs",
+    "notFoundTitle": "Projet introuvable",
+    "notFoundDescription": "Nous n’avons pas trouvé de projet avec cet identifiant.",
+    "backToHome": "Retour à l’accueil"
   },
   "certifications": {
     "eyebrow": "Certifications & formations",
@@ -556,25 +564,25 @@
       {
         "name": "Administrateur Salesforce",
         "provider": "Salesforce",
-        "date": "d’ici au 31 décembre 2025",
+        "date": "d’ici au 31 mars 2026",
         "status": "Prévu"
       },
       {
         "name": "App Builder Salesforce",
         "provider": "Salesforce",
-        "date": "d’ici au 31 décembre 2025",
+        "date": "d’ici au 31 mars 2026",
         "status": "Prévu"
       },
       {
         "name": "Platform Developer I Salesforce",
         "provider": "Salesforce",
-        "date": "d’ici au 31 décembre 2025",
+        "date": "d’ici au 31 mars 2026",
         "status": "Prévu"
       },
       {
         "name": "ISC2 CC (Certified in Cybersecurity)",
         "provider": "ISC2",
-        "date": "d’ici au 31 décembre 2025",
+        "date": "d’ici au 31 mars 2026",
         "status": "Prévu"
       }
     ]
@@ -634,6 +642,8 @@
     "sidebar": {
       "preferred": "Moyens de contact privilégiés",
       "preferredText": "N’hésitez pas à me contacter par email ou sur LinkedIn si vous préférez.",
+      "emailLabel": "Email :",
+      "linkedinLabel": "LinkedIn :",
       "freelanceTitle": "Disponibilité",
       "freelanceText": "Disponible pour des missions freelance à temps partiel ou complet en Europe, à Chypre et en Asie‑Pacifique."
     },

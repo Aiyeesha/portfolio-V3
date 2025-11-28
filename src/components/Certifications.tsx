@@ -13,8 +13,8 @@ import { SectionTitle } from './SectionTitle';
 
 interface CertItem {
   name: string;
-  issuer: string;
-  year: string;
+  provider: string;
+  date: string;
   status: string;
 }
 
@@ -41,10 +41,10 @@ export const Certifications: React.FC = () => {
               <h3 className="text-sm font-semibold text-slate-100">
                 {c.name}
               </h3>
-              <p className="text-xs text-slate-400">{c.issuer}</p>
+              <p className="text-xs text-slate-400">{c.provider}</p>
             </div>
             <div className="text-right text-[11px] text-slate-400">
-              <p>{c.year}</p>
+              <p>{c.date}</p>
               <p className="mt-1 rounded-full border border-slate-700 px-2 py-0.5 text-[10px]">
                 {c.status}
               </p>

@@ -18,7 +18,7 @@ import { Contact } from './Contact';
 
 export const HomePage: React.FC = () => {
   return (
-    <main className="mx-auto max-w-6xl px-4 pt-24 space-y-32 pb-24">
+    <main id="main" className="mx-auto max-w-6xl px-4 pt-24 space-y-32 pb-24">
       <section id="hero">
         <Hero />
       </section>

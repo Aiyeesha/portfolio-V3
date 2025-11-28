@@ -64,19 +64,22 @@ export const ProjectDetail: React.FC = () => {
   if (!detail) {
     return (
       <main className="mx-auto max-w-4xl px-4 pt-24 pb-24 text-center">
-        <h1 className="text-2xl font-bold text-slate-100">Project not found</h1>
+        <h1 className="text-2xl font-bold text-slate-100">
+          {t('projectPage.notFoundTitle')}
+        </h1>
         <p className="mt-4 text-sm text-slate-400">
-          We couldn’t find a project with the identifier "{slug}".
+          {t('projectPage.notFoundDescription')}
         </p>
         <Link
           to="/"
           className="mt-6 inline-block rounded-full bg-brand-500 px-6 py-2 text-sm font-semibold text-slate-950 shadow-glass transition hover:bg-brand-400"
         >
-          Back to home
+          {t('projectPage.backToHome')}
         </Link>
       </main>
     );
   }
+
 
   // Determine if the project uses the new rich format based on presence of badges or problems
   const hasRichContent = Boolean(
