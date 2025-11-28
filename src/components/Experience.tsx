@@ -13,9 +13,9 @@ import React from 'react';
 // imports replace use of `require()` which is not available in the browser
 // context.  When adding new company logos, import the corresponding file
 // here and update the `logoMap` below accordingly.
-import LDLogo from '../assets/logos/ld_digitales.webp';
-import MidrangeLogo from '../assets/logos/midrange.png';
 import { useTranslation } from 'react-i18next';
+import LDLogo from '../assets/logos/ld_digitales.webp';
+import MidrangeLogo from '../assets/logos/midrange.webp';
 import { SectionTitle } from './SectionTitle';
 
 interface ExperienceItemProps {

@@ -9,14 +9,14 @@
 // screen sizes using Tailwind CSS utility classes.
 // -----------------------------------------------------------------------------
 
-import React from 'react';
 import { motion } from 'framer-motion';
+import React from 'react';
 import { useTranslation } from 'react-i18next';
-import avatarImg from '../assets/avatar.png';
+import avatarImg from '../assets/avatar.webp';
 // Company logos for the hero section
-import ldLogo from '../assets/lddigitales.webp';
-import midrangeLogo from '../assets/midrange.png';
-import easynetLogo from '../assets/easynet.png';
+import easynetLogo from '../assets/easynet.webp';
+import ldLogo from '../assets/ld_digitales.webp';
+import midrangeLogo from '../assets/midrange.webp';
 
 export const Hero: React.FC = () => {
   const { t } = useTranslation();
