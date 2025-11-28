@@ -7,33 +7,37 @@ import HomePage from './components/HomePage';
 import { Navbar } from './components/Navbar';
 import { ProjectDetail } from './components/ProjectDetail';
 
-// Determine if we are running in production. This prevents ReferenceError when
-// Vite compiles the app in development (import.meta.env.PROD is defined by Vite).
+// Indique si on est en build de production (fourni par Vite)
 const isProd = import.meta.env.PROD;
 
 const App: React.FC = () => {
   return (
     <div className="min-h-screen bg-gradient-to-b from-slate-950 via-slate-900 to-slate-950 text-slate-50">
-      {/* Skip link for keyboard users to jump directly to the main content */}
+      {/* Lien d’évitement pour l’accessibilité */}
       <a
         href="#main"
         className="sr-only focus:not-sr-only absolute left-2 top-2 z-50 rounded-md bg-brand-500 px-3 py-1 text-sm font-semibold text-slate-950 shadow-glass transition"
       >
         Skip to content
       </a>
-      {/* The Navbar stays visible on all pages */}
+
+      {/* Navbar affichée sur toutes les pages */}
       <Navbar />
-      {/* Define routes for the home page and project detail pages */}
+
+      {/* Zone principale avec le router */}
       <Routes>
-        {/* Home page route */}
+        {/* Page d’accueil */}
         <Route path="/" element={<HomePage />} />
-        {/* Dynamic project detail route */}
+
+        {/* Détail d’un projet via son slug */}
         <Route path="/projects/:slug" element={<ProjectDetail />} />
-         {/* Analytics / Speed Insights seulement en production */}
-          {isProd && <Analytics />}
-          {isProd && <SpeedInsights />}
       </Routes>
-      {/* Footer remains at the bottom on all pages */}
+
+      {/* ✅ Analytics / Speed Insights EN DEHORS de <Routes> */}
+      {isProd && <Analytics />}
+      {isProd && <SpeedInsights />}
+
+      {/* Footer commun à toutes les pages */}
       <Footer />
     </div>
   );
