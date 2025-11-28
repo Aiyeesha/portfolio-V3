@@ -198,7 +198,7 @@ export const ProjectDetail: React.FC = () => {
       {detail.methodology && detail.methodology.length > 0 && (
         <section className="mt-10">
           <h2 className="text-2xl font-semibold text-slate-100">
-            {t('projectPage.methodologyTitle') || 'Methodology'}
+            {t('projectPage.methodologyTitle')}
           </h2>
           <ol className="mt-4 list-decimal space-y-2 pl-5 text-sm text-slate-300">
             {detail.methodology.map((step, idx) => {
@@ -272,7 +272,7 @@ export const ProjectDetail: React.FC = () => {
       {detail.resources && detail.resources.length > 0 && (
         <section className="mt-10">
           <h2 className="text-2xl font-semibold text-slate-100">
-            {t('projectPage.resourcesTitle') || 'Links & resources'}
+            {t('projectPage.resourcesTitle')}
           </h2>
           <ul className="mt-4 space-y-2 text-sm text-brand-300">
             {detail.resources.map((res, idx) => (
